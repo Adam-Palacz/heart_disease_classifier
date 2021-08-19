@@ -20,4 +20,4 @@ Best results (still needing significant improvement):
 * Recall - 75% (Artificial Neural Network)
 * F1 score - 75,68 % (Cat Boost Classifier)
 
-Heart Diesease Dataset from https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
+Heart Disease Dataset from https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
