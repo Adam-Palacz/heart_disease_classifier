@@ -19,3 +19,5 @@ Best results (still needing significant improvement):
 * Precision - 85,71% (Bagging Classifier)
 * Recall - 75% (Artificial Neural Network)
 * F1 score - 75,68 % (Cat Boost Classifier)
+
+Heart Diesease Dataset from https://www.kaggle.com/andrewmvd/heart-failure-clinical-data
